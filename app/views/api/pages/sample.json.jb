@@ -1,0 +1,6 @@
+{
+  message: @message,
+  :fortune => @your_fortune,
+# lotto_greeting: @lotto_message,
+# lotto: @lotto_number,
+}

@@ -1,0 +1,5 @@
+{
+  lotto_message: @lotto_message,
+  lotto_number: @lotto_number,
+
+}
